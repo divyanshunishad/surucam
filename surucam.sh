@@ -15,7 +15,7 @@ printf "\e[0;36m  ___) | | | || |   | | | |\e[0m\e[0;36m| |__  | |_| | | | | |\e
 printf "\e[0;36m |____/ \__,_|\__|  \_____/\e[0m\e[0;36m\____| |___  | |_| |_|\e[0m\n"
 printf "\e[0;36m                           \e[0m\e[0;36m           \_\        \e[0m\n"
 
-printf " \e[37Coded by Divyanshu Nishad(@manu_nishad__)\e[0m \n"
+printf " \e[37m Coded by Divyanshu Nishad(@manu_nishad__)\e[0m \n"
 
 printf "\n"
 
